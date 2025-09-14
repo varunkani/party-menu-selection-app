@@ -1,4 +1,3 @@
-// src/App.js
 import React, { useState } from 'react';
 import { dishes as mockDishes } from './data/mockDishes';
 import Filters from './components/Filters';
